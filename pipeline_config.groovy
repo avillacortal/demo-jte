@@ -52,6 +52,10 @@ application_environments {
 
   prod{
     version    = "0.0.2"
+    //openshift_url       = 'https://api.ocptest.gp.inet:6443'
+    //tiller_credential   = 'openshift'
+    tiller_namespace      = "daas-dev"
+    chart_values_file    = "openshift/"
   }
   
 }
