@@ -7,7 +7,7 @@ libraries {
     }
     
     sonarqube{
-       cli_parameters = [" -Dproject.settings=demo-jte/sonar-project.properties"]
+       //cli_parameters = [" -Dproject.settings=demo-jte/sonar-project.properties"]
     }
     
     oc{
