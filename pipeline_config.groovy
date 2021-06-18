@@ -23,7 +23,7 @@ libraries {
     }
     
     notification{
-        destination = 'giovanni.esp@gmail.com'
+        destination = 'anthony0950cvl2@gmail.com'
     }
 }
 
