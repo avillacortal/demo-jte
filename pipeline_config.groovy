@@ -6,10 +6,6 @@ libraries {
         isPublishable=true
     }
     
-    sonarqube{
-       //cli_parameters = [" -Dproject.settings=demo-jte/sonar-project.properties"]
-    }
-    
     oc{
         url                 = 'https://api.ocptest.gp.inet:6443'
         tiller_credential   = 'openshift'
