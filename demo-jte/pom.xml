@@ -22,7 +22,7 @@
 		<repository>
 			<id>telefonica-nexus</id>
 			<name>maven-public</name>
-			<url>http://10.226.12.45:8081/service/rest/repository/browse/maven-public/</url>
+			<url>http://10.226.12.45:8081/repository/maven-public</url>
 		</repository>
 	</repositories>
 	<dependencies>
